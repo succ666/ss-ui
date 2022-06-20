@@ -3,5 +3,6 @@ import App from './App.vue'
 
 import './index.scss'
 import Button from './button'
+import Sheep from '../build'
 
-createApp(App).use(Button).mount('#app')
+createApp(App).use(Sheep).mount('#app')

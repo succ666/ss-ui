@@ -1,0 +1,17 @@
+{
+    "name": "succ-ui",
+    "version": "0.0.0",
+    "main": "sheep-ui.umd.js",
+    "module": "sheep-ui.es.js",
+    "author": "succ",
+    "description": "succ的组件库",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/57code/sheep-ui.git"
+    },
+    "keywords": ["vue3", "组件库", "tsx", "UI"],
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/57code/sheep-ui/issues"
+    }
+  }
